@@ -1,10 +1,11 @@
 
 Conrad Mearns
 =========================================================================
+```
 | -------------- | ---------------------- | --------------------------- |
 | (208) 255-9280 | conradmearns@gmail.com | mear8979@vandals.uidaho.edu |
 | -------------- | ---------------------- | --------------------------- |
-
+```
 
 Professional Profile
 =========================================================================
@@ -14,8 +15,10 @@ Professional Profile
  - Student Body President (2013 - 2014)
  - Volunteer for Angels over Sandpoint
 ### Areas of Expertise
+```
 |      Java      |     C/C++     |   Python   |
 | Linux (Debian) | Git Toolchain | Web Markup |
+```
 
 Work History
 =========================================================================
